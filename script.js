@@ -36,9 +36,9 @@ function game() {
         let rockBeatScissors = "Human chose wisely!";
         let scissorsBeatPaper = "Human chose wisely!";
         let paperBeatRock = "Human chose wisely!";
-        let rockBeatScissorsLoss = "Computer is laughing of you!";
-        let scissorsBeatPaperLoss = "Computer is laughing of you!";
-        let paperBeatRockLoss = "Computer is laughing of you!";
+        let rockBeatScissorsLoss = "Computer laugh at you!";
+        let scissorsBeatPaperLoss = "Computer laugh at you!";
+        let paperBeatRockLoss = "Computer laugh at you!";
 
         if (playerSelection === computerSelection) {
             return tie;
